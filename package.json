@@ -1,0 +1,24 @@
+{
+  "name": "simple-parse-json",
+  "version": "1.0.0",
+  "description": "A simple module to parse JSON with a try-catch",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjameshill/parsejson.git"
+  },
+  "keywords": [
+    "JSON",
+    "Parser",
+    "Javascript"
+  ],
+  "author": "Christopher James Hill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjameshill/parsejson/issues"
+  },
+  "homepage": "https://github.com/cjameshill/parsejson#readme"
+}
